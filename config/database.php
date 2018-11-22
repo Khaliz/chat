@@ -59,6 +59,7 @@ return [
             'driver' => 'mysql',
             'host' => 'https://db4free.net/',
             'database' => 'shatap',
+            'port'=>'3306',
             'username' => 'shatap',
             'password' => 'shatap1234567890',
             'charset' => 'utf8mb4',
