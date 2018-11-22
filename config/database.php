@@ -57,7 +57,7 @@ return [
         // ],
         'mysql' => [
             'driver' => 'mysql',
-            'host' => 'https://db4free.net/',
+            'host' => 'http://db4free.net/',
             'database' => 'shatap',
             'port'=>'3306',
             'username' => 'shatap',
